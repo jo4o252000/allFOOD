@@ -35,7 +35,6 @@ export default function NovoRestaurante(){
         }
       
     }
-
     return(
         <Box sx={{display:'flex', flexDirection:'column', alignItems:'center' }}>
             <Typography component="h1" variant="h6">Formulario de Restaurante</Typography>
